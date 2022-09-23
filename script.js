@@ -7,7 +7,7 @@ var obj2 = {
     age:5,
     name:"person 1"
 }
-JSON.stringify(obj1)==JSON.stringify(obj2)
+console.log(JSON.stringify(obj1)==JSON.stringify(obj2));
 
 // displaying all country flag in console
 
